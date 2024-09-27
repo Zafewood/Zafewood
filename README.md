@@ -8,7 +8,7 @@
 
 <p align="left">🙋 I enjoy creating solutions that solve users' real problems<br>🎓 I'm currently studying abroad at UC Berkeley (9 hours of time difference🥱)<br>📖 I'm currently reading Human Compatible by Stuart Russell</p>
 
-<p align="left">💬 Reach out to me at <a href="www.linkedin.com/in/trygvenos">LinkedIn</a></p>
+<p align="left">💬 Reach out to me at <a href="https://www.linkedin.com/in/trygvenos">LinkedIn</a></p>
 
 ###
 
